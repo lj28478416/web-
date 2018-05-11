@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    margin-top: 20px;
+    width: 504px;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+.table_1{
+    margin-top: 20px;
+    width: 500px;
+    border-collapse: collapse;
+    border: 2px solid blue;
+    text-align: center;
+}
+.table_1 td,th{
+    border: 2px solid blue;
+    height: 30px;
+}
+.table_2{
+    display: none;
+}
+#num_text{
+    text-align: center;
+}
